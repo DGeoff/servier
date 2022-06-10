@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+scikit-learn
+pydantic
+numpy
+pandas
+python-multipart
+rdkit-pypi
